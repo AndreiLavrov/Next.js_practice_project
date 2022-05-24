@@ -1,27 +1,17 @@
 export const socials = [
   {
+    id: 0,
+    icon: 'instagram',
+    path: 'https://www.instagram.com/andrew_lavrov_91',
+  },
+  {
     id: 1,
-    icon: 'youtube',
-    path: 'https://youtube.com/YauhenKavalchuk',
+    icon: 'linkedin',
+    path: 'https://www.linkedin.com/in/andrew-lavrov',
   },
   {
     id: 2,
-    icon: 'instagram',
-    path: 'https://instagram.com/YauhenKavalchuk',
-  },
-  {
-    id: 3,
-    icon: 'linkedin',
-    path: 'https://linkedin.com/in/YauhenKavalchuk',
-  },
-  {
-    id: 4,
     icon: 'vk',
-    path: 'https://vk.com/YauhenKavalchuk',
-  },
-  {
-    id: 5,
-    icon: 'twitter',
-    path: 'https://twitter.com/YauhenKavalchuk',
+    path: 'https://vk.com/lavrikffk',
   },
 ];
